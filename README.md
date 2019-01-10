@@ -1,6 +1,6 @@
 # Sockets with Python
 
-Send data from client to server using Python scokets in **client.py** and **server.py**.
+Send data from client to server using Python sockets in **client.py** and **server.py**.
 
 Send data from peer to peer (client to client) using PubNub with **pn_client_1.py** and **pn_client_2.py**.
 
